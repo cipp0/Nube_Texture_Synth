@@ -1,9 +1,7 @@
 # NUBE - TEXTURE SYNTHESIZER v. 0.1 (Mac OS Only)
-By BitNet01
-facebook.com/BitNet001 | instagram.com/bitnet01 | bit-01.net
-‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
+## facebook.com/BitNet001 | instagram.com/bitnet01 | bit-01.net
 
-###### ENG
+### ENG
 
 Clone of the 'Clouds' module by Mutable Instruments (https://mutable-instruments.net)
 
@@ -15,8 +13,6 @@ A huge thanks goes to Émilie Gillet, the original authoress of the Mutable Inst
 
 We did it for passion, not for profit, therefore there may be bugs. we will discover them together! 
 
-‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
-
 The credits go to the respective creators of the code.
 
 Visit their sites to find out their fantastic work! 
@@ -27,9 +23,8 @@ Original code by Émilie Gillet
 Max/MSP external by Volker Böhm 
 (https://vboehm.net)
 
-‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
 
-INSTRUCTIONS FOR CORRECT INSTALLATION
+#### INSTRUCTIONS FOR CORRECT INSTALLATION
 
 - Unzip all the contents in the same folder
 - Go to: User / Music / Ableton / User Library
@@ -41,9 +36,8 @@ If there is no UI when you load the device it's because you did some wrong passa
 
 Tested with Ableton live 10.1.6 & Max 8.1.0 on High Sierra and Mojave.
 
-‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
 
-###### ITA
+### ITA
 
 Clone del modulo "Clouds" di Mutable Instruments (https://mutable-instruments.net)
 
@@ -53,8 +47,7 @@ Noi abbiamo solo creato un'interfaccia utente per M4L  per consentire a tutti di
 
 Un enorme ringraziamento va a Émilie Gillet, l'autrice originale della famiglia di moduli della Mutable Instruments, per aver reso i codici sorgente pubblicamente disponibili per permettere a tutti di esplorare, imparare e ricavare nuove texture musicali!
 
-Lo abbiamo fatto per passione, non per il lucro, quindi potrebbero esserci dei bug. Li scopriremo insieme!
-‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
+L'ho fatto per passione, non per lucro, quindi potrebbero esserci dei bug. Li scopriremo insieme!
 
 I crediti vanno ai rispettivi creatori del codice.
 
@@ -66,9 +59,7 @@ Codice originale by Émilie Gillet
 Max/MSP external by Volker Böhm 
 (https://vboehm.net)
 
-‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
-
-ISTRUZIONI PER UNA CORRETTA INSTALLAZIONE
+### ISTRUZIONI PER UNA CORRETTA INSTALLAZIONE
 
 - Decomprimi tutto il contenuto nella stessa cartella
 - Vai a: User / Music / Ableton / User Library
@@ -79,5 +70,6 @@ Ora troverai il file .amxd nella browser di Ableton nella Libreria Utente sul pa
 Se l'interfaccia utente non viene caricata quando si carica il dispositivo è perché sono stati eseguiti passaggi errati, prova un'altra volta l'intera procedura.
 
 Testato con Ableton live 10.1.6 e Max 8.1.0 su High Sierra e Mojave.
-‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹‹
+
+
 
