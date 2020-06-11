@@ -1,5 +1,5 @@
 # NUBE - TEXTURE SYNTHESIZER v. 0.1 (Mac OS Only)
-## facebook.com/BitNet001 | instagram.com/bitnet01 | bit-01.net
+## by BitNet01 www.bit-01.net
 
 ### ENG
 
