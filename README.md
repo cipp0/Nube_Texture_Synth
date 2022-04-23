@@ -1,5 +1,5 @@
-# NUBE - TEXTURE SYNTHESIZER v. 0.1 (Mac OS Only)
-## by BitNet01 www.bit-01.net
+# NUBE - TEXTURE SYNTHESIZER v. 2.0 (MacOS & Windows)
+## by BitNet01 www.bitnet01.xyz
 
 ### ENG
 
@@ -34,7 +34,7 @@ Now you can find the .amxd file in Ableton browsing in User Library on the left 
 
 If there is no UI when you load the device it's because you did some wrong passages, try another time the entire procedure.
 
-Tested with Ableton live 10.1.6 & Max 8.1.0 on High Sierra and Mojave.
+Tested with Ableton live 11.1 & Max 8.2.0 on High Sierra and Mojave.
 
 
 ### ITA
@@ -69,7 +69,7 @@ Ora troverai il file .amxd nella browser di Ableton nella Libreria Utente sul pa
 
 Se l'interfaccia utente non viene caricata quando si carica il dispositivo è perché sono stati eseguiti passaggi errati, prova un'altra volta l'intera procedura.
 
-Testato con Ableton live 10.1.6 e Max 8.1.0 su High Sierra e Mojave.
+Testato con Ableton live 11.1 e Max 8.2.0 su High Sierra e Mojave.
 
 
 
